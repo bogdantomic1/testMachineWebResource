@@ -1,0 +1,15 @@
+{
+  "entities": [
+    "ct_machine"
+  ],
+  "actions": [
+    "SendEmail"
+  ],
+  "functions": [],
+  "generateIndex": true,
+  "generateFormContext": true,
+  "generateEntityTypes": false,
+  "output": {
+    "outputRoot": "./src/dataverse-gen"
+  }
+}
