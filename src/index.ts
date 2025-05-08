@@ -1,1 +1,1 @@
-console.log("Hello This is a Typescript project. This is new change");
+export * as MachineForm from "./forms/machine-form";
